@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rosalie/Documents/DataExplorationProject/Abgabe_DataExplorationProject/mlruns/0/73545a35d4044587810a079a01429c40/artifacts
+end_time: 1682440857730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73545a35d4044587810a079a01429c40
+run_name: indecisive-panda-462
+run_uuid: 73545a35d4044587810a079a01429c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682440849876
+status: 3
+tags: []
+user_id: rosalie

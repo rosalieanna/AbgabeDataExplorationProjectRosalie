@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rosalie/Documents/DataExplorationProject/Abgabe_DataExplorationProject/mlruns/0/addc7753ade64fa2b88637545625afd0/artifacts
+end_time: 1682440833645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: addc7753ade64fa2b88637545625afd0
+run_name: unique-quail-233
+run_uuid: addc7753ade64fa2b88637545625afd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682440825239
+status: 3
+tags: []
+user_id: rosalie
